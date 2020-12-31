@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    username: ubokzwb9oi9p9slz
+    password: WktjZjjq2dxJ9RPsbrrD
+    url: jdbc:mysql://biil5qslkniksbtnwf0s-mysql.services.clever-cloud.com:3306/biil5qslkniksbtnwf0s?useSSL=false&autoReconnect=true
+  jpa:
+    generate-ddl: true
+
+intocablesrp:
+  app:
+    jwtSrecet: bokzwbjZjjq9oi9p9slzbojZjjq2dxJkzwb9oi9p9slz
+    jwtExpirationMs: 604800
+
+    discord:
+      clientID: 788516512600293426
+      clientSecret: inqQYwCMWNW9oRU6gl8zG_abUFpWU86w
